@@ -2,9 +2,9 @@
 
 # ECE445 Micro-Penetrometer for Snow and Soil Structural Analysis
 
-<p align="center">
-  <img src="Report/design.png" alt="Micro-Penetrometer Design" width="25%">
-</p>
+
+<img src="Report/design.png" alt="Micro-Penetrometer Design" width="25%">
+
 
 ## Project Overview
 
