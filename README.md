@@ -2,6 +2,8 @@
 
 # ECE445 Micro-Penetrometer for Snow and Soil Structural Analysis
 
+<img src="Report/design.png" alt="Micro-Penetrometer Design" style="zoom:50%;" />
+
 ## Project Overview
 
 This project developed an advanced micro-penetrometer system for detailed analysis of soil and snow structures. The system integrates precision motors, force sensing, and wireless communication to enable accurate penetration testing and data collection.
